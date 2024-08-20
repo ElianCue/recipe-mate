@@ -1,0 +1,85 @@
+{
+  "recipes": [
+    {
+      "id": 1,
+      "title": "Spaghetti Carbonara",
+      "category": "Cena",
+      "ingredients": "200g de spaghetti, 100g de panceta, 2 huevos grandes, 50g de queso Pecorino, 50g de Parmesano, Pimienta negra recién molida, Sal, 1 diente de ajo",
+      "instructions": "1. Hervir la pasta. 2. Freír la panceta con el ajo. 3. Batir los huevos y mezclar con el queso. 4. Combinar la pasta con la mezcla de panceta y huevo. 5. Servir con queso extra y pimienta.",
+      "image": "https://cdn.pixabay.com/photo/2019/10/13/14/23/spaghetti-bolognese-4546233_1280.jpg"
+    
+    },
+    {
+      "id": 2,
+      "title": "Chicken Tikka Masala",
+      "category": "Cena",
+      "ingredients": "4 pechugas de pollo, 1 cebolla, 3 dientes de ajo, 1 cucharada de jengibre, 1 lata de salsa de tomate, 200 ml de crema de leche, 2 cucharadas de garam masala, Sal, Pimienta, 1 cucharada de paprika",
+      "instructions": "1. Marinar el pollo con las especias. 2. Cocinar la cebolla, el ajo y el jengibre. 3. Agregar la salsa de tomate y cocinar. 4. Agregar el pollo y la crema. 5. Cocinar a fuego lento hasta que el pollo esté cocido.",
+      "image": "https://cdn.pixabay.com/photo/2019/10/13/14/23/spaghetti-bolognese-4546233_1280.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Beef Tacos",
+      "category": "Cena",
+      "ingredients": "500g de carne picada, 1 cebolla, 2 dientes de ajo, 1 cucharadita de comino, 1 cucharadita de paprika, Sal, Pimienta, 8 tortillas de taco, Lechuga, Tomates, Queso, Crema agria",
+      "instructions": "1. Cocinar la carne con la cebolla y el ajo. 2. Agregar las especias y cocinar hasta que estén bien mezcladas. 3. Servir en tortillas de taco con lechuga, tomate, queso y crema agria.",
+      "image": "https://cdn.pixabay.com/photo/2019/10/13/14/23/spaghetti-bolognese-4546233_1280.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Margherita Pizza",
+      "category": "Cena",
+      "ingredients": "Masa para pizza, 200g de queso mozzarella, 100g de salsa de tomate, Albahaca fresca, Aceite de oliva, Sal",
+      "instructions": "1. Precalentar el horno a 220°C. 2. Untar la salsa de tomate sobre la masa. 3. Agregar el queso mozzarella y la albahaca. 4. Rociar con aceite de oliva. 5. Hornear durante 10-12 minutos.",
+      "image": "https://cdn.pixabay.com/photo/2019/10/13/14/23/spaghetti-bolognese-4546233_1280.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Caesar Salad",
+      "category": "Almuerzo",
+      "ingredients": "1 lechuga romana, 100g de crutones, 50g de queso Parmesano, Aderezo César, 1 pechuga de pollo a la parrilla, Sal, Pimienta",
+      "instructions": "1. Cortar la lechuga y el pollo. 2. Mezclar con los crutones y el aderezo. 3. Cubrir con Parmesano y servir.",
+      "image": "https://cdn.pixabay.com/photo/2019/10/13/14/23/spaghetti-bolognese-4546233_1280.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Pancakes",
+      "category": "Desayuno",
+      "ingredients": "1 taza de harina, 1 cucharada de azúcar, 1 cucharadita de polvo de hornear, 1/2 cucharadita de bicarbonato de sodio, 1 taza de leche, 1 huevo, 2 cucharadas de mantequilla derretida, 1 cucharadita de extracto de vainilla, Una pizca de sal",
+      "instructions": "1. Mezclar los ingredientes secos. 2. Agregar los ingredientes húmedos y mezclar hasta que quede suave. 3. Cocinar en una sartén caliente hasta que se formen burbujas. 4. Voltear y cocinar hasta que estén dorados.",
+      "image": "https://cdn.pixabay.com/photo/2019/10/13/14/23/spaghetti-bolognese-4546233_1280.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Guacamole",
+      "category": "Aperitivo", 
+      "ingredients": "3 aguacates, 1 lima, 1 tomate, 1/2 cebolla, 1 diente de ajo, 1 cucharada de cilantro, Sal, Pimienta",
+      "instructions": "1. Machacar los aguacates. 2. Agregar jugo de lima, tomate picado, cebolla, ajo y cilantro. 3. Sazonar con sal y pimienta. 4. Mezclar bien y servir.",
+      "image": "https://cdn.pixabay.com/photo/2019/10/13/14/23/spaghetti-bolognese-4546233_1280.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Chocolate Chip Cookies",
+      "category": "Postre", 
+      "ingredients": "1 taza de mantequilla, 1 taza de azúcar, 1 taza de azúcar morena, 2 huevos, 2 cucharaditas de extracto de vainilla, 3 tazas de harina, 1 cucharadita de bicarbonato de sodio, 1/2 cucharadita de sal, 2 tazas de chispas de chocolate",
+      "instructions": "1. Precalentar el horno a 180°C. 2. Cremar la mantequilla y los azúcares. 3. Agregar los huevos y la vainilla. 4. Incorporar los ingredientes secos. 5. Agregar las chispas de chocolate. 6. Colocar cucharadas de masa en una bandeja para hornear. 7. Hornear durante 10-12 minutos.",
+      "image": "https://cdn.pixabay.com/photo/2019/10/13/14/23/spaghetti-bolognese-4546233_1280.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Lemon Garlic Shrimp Pasta",
+      "category": "Cena",
+      "ingredients": "200g de spaghetti, 300g de camarones, 3 dientes de ajo, 1 limón, 1/4 taza de aceite de oliva, Perejil fresco, Sal, Pimienta, Queso Parmesano",
+      "instructions": "1. Cocinar la pasta. 2. Saltear el ajo y los camarones. 3. Agregar el jugo de limón y el aceite de oliva. 4. Mezclar con la pasta y el perejil. 5. Servir con Parmesano.",
+      "image": "https://cdn.pixabay.com/photo/2019/10/13/14/23/spaghetti-bolognese-4546233_1280.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Vegetable Stir Fry",
+      "category": "Cena",
+      "ingredients": "1 brócoli, 1 pimiento, 1 zanahoria, 1 calabacín, 1 cebolla, 2 dientes de ajo, 2 cucharadas de salsa de soja, 1 cucharada de aceite de sésamo, 1 cucharadita de jengibre, Sal, Pimienta, Arroz para servir",
+      "instructions": "1. Cocinar las verduras en aceite de sésamo. 2. Agregar el ajo y el jengibre. 3. Agregar la salsa de soja. 4. Servir con arroz.",
+      "image": "https://cdn.pixabay.com/photo/2019/10/13/14/23/spaghetti-bolognese-4546233_1280.jpg"
+    }
+  ]
+}
